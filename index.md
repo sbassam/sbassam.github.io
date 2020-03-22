@@ -1,11 +1,11 @@
-## Portfolio
+## Projects
 
 ---
 
 ### Machine Learning
 
 [Can Unsupervised Learning Approaches improve a Neural Net?](/unsupervised_learning.md)
-<img src="images/unsupervised_learning.jpg?raw=true"/>
+<img src="images/unsupervised_learning.ong?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
