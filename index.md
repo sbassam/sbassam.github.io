@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-[Can Unsupervised Learning Approaches improve a Neural Net?](/unsupervised_learning)
+[Can Unsupervised Learning Approaches improve a Neural Net?](/unsupervised_learning.md)
 <img src="images/unsupervised_learning.jpg?raw=true"/>
 
 ---
