@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning
 
-[Project 1 Title](/sample_page)
+[Can Unsupervised Learning Approaches improve a Neural Net?](/unsupervised_learning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
