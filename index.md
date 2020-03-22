@@ -5,7 +5,7 @@
 ### Machine Learning
 
 [Can Unsupervised Learning Approaches improve a Neural Net?](/unsupervised_learning)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/unsupervised_learning.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
