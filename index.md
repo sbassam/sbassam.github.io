@@ -5,7 +5,7 @@
 ### Machine Learning
 
 [Can Unsupervised Learning Approaches improve a Neural Net?](/unsupervised_learning.md)
-<img src="images/unsupervised_learning.ong?raw=true"/>
+<img src="images/sil-score-abalone-ternary-Kmeans-ANN-8-clusters.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
