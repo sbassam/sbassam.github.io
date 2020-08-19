@@ -1,10 +1,39 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Georgia Tech
+  dates: 2019 - 2021
+  qualification: MS Computer Science
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    This is my second Master's degree. I'm specializing in Machine Learning. Georgia Tech consistently ranks [top 10] (https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Read [more] (https://omscs.gatech.edu/) about the program.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Relevant Courses:
+        - Machine Learning
+        - Machine Learning for Trading
+        - AI for Robotics
+        - Software Development Processes
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: University of Maryland, College Park
+  dates: 2013 - 2015
+  qualification: MS Systems Engineering
+  quote: >
+    The degree is offered by the Institute for Systems Research, which ["is an internationally recognized leader in systems research"] (https://isr.umd.edu/education/msse-degree). 
+  description: | # this will include new lines to allow paragraphs
+    Relevant Courses:
+        - Database Systems
+        - System Development, Validation and Verification
+        - Systems Quality and Robustness Analysis
+        - System Life Cycle Analysis and Risk Management
+
+
+- layout: left
+  name: Sharif University
+  dates: 2009 - 2013
+  qualification: BS Aerospace Engineering
+  quote: >
+    aka Iran't [MIT] (https://www.cnn.com/2017/06/27/middleeast/irans-mit-sharif-university-technology/index.html)
+  description: | # this will include new lines to allow paragraphs
+    Relevant Courses:
+        - Engineering Probability and Statistics
+        - Computere Programming
+        - Engineering Math
+        - Numerical Computation
