@@ -7,10 +7,14 @@
    Bringing transparency to money-in-politics
   description: | # this will include new lines to allow paragraphs
       
-          - Implemented amachine learning system to detect political groups with a +95% quality
+          - Implemented a machine learning system to detect political groups with a +95% quality
+          
           - Trained and evaluated a semi-supervised clustering algorithm to identify online political ads sponsors
+          
           - Developed relational databases to efficiently process +200 million records 
+          
           - Designed ETL pipelines that reduced processing time and error by 12%
+          
           - Led data science projects throughout all lifecycle stages, including data extraction, analysis, modeling, and visualization
     
     
@@ -23,16 +27,10 @@
    Applying Systems Engineering principles to cyber-physical security evaluation processes. Funded by NIST.
   description: | # this will include new lines to allow paragraphs
   
-  
-  
-    - Built a predictive model to estimate the performance of a medical center security system
-
+      - Built a predictive model to estimate the performance of a medical center security system
     
-    - Developed visualization dashboards to show the model’s performance
+      - Developed visualization dashboards to show the model’s performance
     
-    
-    - Implemented a recommendation system to automate vulnerability assessment
-    
-    
+      - Implemented a recommendation system to automate vulnerability assessment
 
 
