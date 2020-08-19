@@ -7,7 +7,7 @@
    Bringing transparency to money-in-politics
   description: | # this will include new lines to allow paragraphs
       
-          - Implemented a machine learning system to detect political groups with a +95% quality
+          - Implemented amachine learning system to detect political groups with a +95% quality
           - Trained and evaluated a semi-supervised clustering algorithm to identify online political ads sponsors
           - Developed relational databases to efficiently process +200 million records 
           - Designed ETL pipelines that reduced processing time and error by 12%
