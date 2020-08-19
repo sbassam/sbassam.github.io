@@ -7,6 +7,7 @@
    Bringing transparency to money-in-politics
   description: | # this will include new lines to allow paragraphs
   
+  
       - Implemented a machine learning system to detect political groups with a +95% quality
     
     
@@ -31,11 +32,16 @@
    Applying Systems Engineering principles to cyber-physical evaluation processes. Funded by NIST.
   description: | # this will include new lines to allow paragraphs
   
+  
+  
     - Built a predictive model to estimate the performance of a medical center security system
+
     
     - Developed visualization dashboards to show the model’s performance
     
+    
     - Implemented a recommendation system to automate vulnerability assessment
+    
     
 
 
