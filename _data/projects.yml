@@ -1,4 +1,4 @@
-- layout: left (options: left, right, top, top-right, top-middle)
+- layout: top-middle
   name: Project name
   link: Link to project (eg. https://sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
