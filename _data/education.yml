@@ -6,10 +6,15 @@
     This is my second Master's degree. I'm specializing in Machine Learning. Georgia Tech consistently ranks [top 10](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Read [more] (https://omscs.gatech.edu/) about the program.
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
-        * Machine Learning
-        * Machine Learning for Trading
+    
+        - Machine Learning
+        
+        - Machine Learning for Trading
+        
         - AI for Robotics
+        
         - Software Development Processes
+        
 
 - layout: left
   name: University of Maryland, College Park
@@ -30,10 +35,10 @@
   dates: 2009 - 2013
   qualification: BS Aerospace Engineering
   quote: >
-    aka Iran't [MIT](https://www.cnn.com/2017/06/27/middleeast/irans-mit-sharif-university-technology/index.html)
+    aka Iran's [MIT](https://www.cnn.com/2017/06/27/middleeast/irans-mit-sharif-university-technology/index.html)
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
         - Engineering Probability and Statistics
         - Computere Programming
         - Engineering Math
-        - Numerical Computation
+        - Numerical Computation [test](test.com)
