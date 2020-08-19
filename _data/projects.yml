@@ -1,8 +1,8 @@
 - layout: top-middle
-  name: Nub
-  link: Link to project (eg. https://sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Nub 1.0 Text Summarizer
+  link: [Project Description](https://sbassam.github.io/nub-summarizer/)
+  github: https://github.com/sbassam/nub-summarizer
   quote: >
-    Short overview of the project (optional)
+    Training and evaluation of deep learning models (T5 and BERT) for NLP tasks with PyTorch
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Students often struggle with processing large volumes of content throughout the course of their studies. This in turn will lead to a decrease in student productivity. Utilizing an effective summarization tool, students can better prepare for exams, improve their own summarization skills via learning by comparison, and avoid wasting time on low-quality content by skimming the summary. The Nub 1.0 project utilizes an effective deep learning framework to develop a summarizer specialized in educational content.
