@@ -27,9 +27,13 @@
 which "is an internationally recognized leader in [systems research"](https://isr.umd.edu/education/msse-degree). 
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
+    
         - Database Systems
+        
         - System Development, Validation and Verification
+        
         - Systems Quality and Robustness Analysis
+        
         - System Life Cycle Analysis and Risk Management
 
 
@@ -41,7 +45,12 @@ which "is an internationally recognized leader in [systems research"](https://is
     aka Iran's [MIT](www.cnn.com/2017/06/27/middleeast/irans-mit-sharif-university-technology/index.html)
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
+    
         - Engineering Probability and Statistics
+        
         - Computere Programming
+        
         - Engineering Math
+        
         - Numerical Computation
+        
