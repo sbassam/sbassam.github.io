@@ -2,11 +2,6 @@
   name: Georgia Tech
   dates: 2019 - 2021
   qualification: MS Computer Science
-  quote: >
-    This is my second Master's degree. I'm specializing in Machine Learning. 
-    Georgia Tech consistently ranks [top 10]
-(https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). 
-    Read [more] (https://omscs.gatech.edu/) about the program.
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
     
@@ -23,9 +18,6 @@
   name: University of Maryland, College Park
   dates: 2013 - 2015
   qualification: MS Systems Engineering
-  quote: >
-    The degree is offered by the Institute for Systems Research, 
-which "is an internationally recognized leader in [systems research"](https://isr.umd.edu/education/msse-degree). 
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
     
@@ -42,8 +34,6 @@ which "is an internationally recognized leader in [systems research"](https://is
   name: Sharif University
   dates: 2009 - 2013
   qualification: BS Aerospace Engineering
-  quote: >
-    aka Iran's [MIT](www.cnn.com/2017/06/27/middleeast/irans-mit-sharif-university-technology/index.html)
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
     
