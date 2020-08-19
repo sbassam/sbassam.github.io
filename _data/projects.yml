@@ -1,5 +1,5 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: Nub 1.0 Text Summarizer
   link: [Project Description](https://sbassam.github.io/nub-summarizer/)
   github: https://github.com/sbassam/nub-summarizer
