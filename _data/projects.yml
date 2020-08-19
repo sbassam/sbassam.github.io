@@ -1,8 +1,24 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Nub 1.0 Text Summarizer
+  link: [Project Description](https://sbassam.github.io/nub-summarizer/)
+  github: https://github.com/sbassam/nub-summarizer
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Training and evaluation of deep learning models (T5 and BERT) for NLP tasks with PyTorch
+  description: |
+    Students often struggle with processing large volumes of content throughout the course of their studies. This in turn will lead to a decrease in student productivity. Utilizing an effective summarization tool, students can better prepare for exams, improve their own summarization skills via learning by comparison, and avoid wasting time on low-quality content by skimming the summary. The Nub 1.0 project utilizes an effective deep learning framework to develop a summarizer specialized in educational content. 
+
+    
+- layout: top-middle
+  name: Unsupervised Learning Analysis for the wine quality dataset
+  link:
+  github: https://github.com/sbassam/cs-7641-projects/tree/master/assignment-3
+  quote: >
+    Experimenting with various approaches in unsupervised learning
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+ 
+- layout: top-middle
+  name: Reinforcement Learning with OpenAI Gym
+  link: [report](https://github.com/sbassam/cs-7641-projects/blob/master/assignment-4/sbassam3-analysis.pdf)
+  github: https://github.com/sbassam/cs-7641-projects/tree/master/assignment-4
+  quote: >
+  description: | # this will include new lines to allow paragraphs
