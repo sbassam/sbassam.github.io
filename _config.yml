@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Soroush Bassam
 title: Machine Learning/Data Science
 email: soroush.bassam@gmail.com
-website: https://sbassam.github.io
+website: sbassam.github.io
 
 # Social links
 # twitter_username: facespics
@@ -24,9 +24,9 @@ linkedin_username: soroushb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Soroush and I'm a database developer with focus on machine learning. I am also in a part-time program to get my Master's in Computer Science.
+  Hi, my name is Soroush and I'm a database developer with a passion for machine learning. I am also a part-time student working toward an MS in Computer Science.
 
-  I am most skilled in: <mark>SQL</mark> and <mark>Python</mark>
+  I am most skilled in: <mark>SQL</mark>, <mark>Python</mark> (<mark>Pandas</mark>, <mark>Numpy</mark>, <mark>scikit-learn</mark>, <mark>Matplotlib</mark>, <mark>PyTorch</mark>)
 
 # Projects Section
 # projects_title: Projects
@@ -39,11 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in Machine Learning, some of my other interests and hobbies are:
-   - Cooking
-   - Soccer
-   - Music
+#more_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: true

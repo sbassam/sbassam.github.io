@@ -1,6 +1,6 @@
 - layout: left
   company: OpenSecrets
-  link: OpenSecrets.org
+  link: www.opensecrets.org
   job_title: Database Developer
   dates: November 2015 - Present
   quote: >
@@ -11,7 +11,7 @@
           
           - Trained and evaluated a semi-supervised clustering algorithm to identify online political ads sponsors
           
-          - Developed relational databases to efficiently process +200 million records 
+          - Developed relational databases to efficiently process +200 million records
           
           - Designed ETL pipelines that reduced processing time and error by 12%
           
@@ -20,7 +20,7 @@
     
 - layout: left
   company: Institute for Systems Research
-  link: https://isr.umd.edu
+  link: isr.umd.edu
   job_title: Graduate Research Assistant
   dates: October 2013 - September 2015
   quote: >

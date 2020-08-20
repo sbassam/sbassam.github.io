@@ -4,14 +4,10 @@
   qualification: MS Computer Science
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
-    
-        - Machine Learning
-        
-        - Machine Learning for Trading
-        
-        - AI for Robotics
-        
-        - Software Development Processes
+      - Machine Learning
+      - Machine Learning for Trading
+      - AI for Robotics
+      - Software Development Processes
         
 
 - layout: left
@@ -20,14 +16,10 @@
   qualification: MS Systems Engineering
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
-    
-        - Database Systems
-        
-        - System Development, Validation and Verification
-        
-        - Systems Quality and Robustness Analysis
-        
-        - System Life Cycle Analysis and Risk Management
+      - Database Systems
+      - System Development, Validation and Verification
+      - Systems Quality and Robustness Analysis
+      - System Life Cycle Analysis and Risk Management
 
 
 - layout: left
@@ -36,12 +28,8 @@
   qualification: BS Aerospace Engineering
   description: | # this will include new lines to allow paragraphs
     Relevant Courses:
-    
-        - Engineering Probability and Statistics
-        
-        - Computere Programming
-        
-        - Engineering Math
-        
-        - Numerical Computation
+      - Engineering Probability and Statistics
+      - Computer Programming
+      - Engineering Math
+      - Numerical Computation
         
