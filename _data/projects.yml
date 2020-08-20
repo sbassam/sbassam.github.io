@@ -1,7 +1,7 @@
 - layout: left
   name: Nub 1.0 Text Summarizer
-  link: https://sbassam.github.io/nub-summarizer/
-  github: https://github.com/sbassam/nub-summarizer
+  link: https://youtu.be/9nOnMTBE0yM
+  github: sbassam/nub-summarizer
   quote: >
     Training and evaluation of deep learning models (<mark>T5</mark> and <mark>BERT</mark>) for NLP tasks with PyTorch
   description: | # this will include new lines to allow paragraphs
