@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Soroush and I'm a database developer with a passion for machine learning. I am also a part-time student working toward an MS in Computer Science.
 
-  I am most skilled in: <mark>SQL</mark>, <mark>Python</mark> (<mark>Pandas</mark>, <mark>Numpy</mark>, <mark>scikit-learn</mark>, <mark>Matplotlib</mark>, <mark>PyTorch</mark>)
+  I am most skilled in: <mark>SQL</mark>, <mark>Python</mark>, <mark>Pandas</mark>, <mark>Numpy</mark>, <mark>scikit-learn</mark>, <mark>Matplotlib</mark>, <mark>PyTorch</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,6 +40,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 #more_content: | # this will include new lines to allow paragraphs
+
+# Darkmode
+darkmode: false
 
 # Footer
 footer_show_references: true
